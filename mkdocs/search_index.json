@@ -1,0 +1,299 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to the Juniper Hydrology website!\n\n\n\n\nHello, my name is \nRyan Niemeyer\n. The goal of this website is to communicate the knowledge gained about juniper hydrology during my PhD in an easily accessable format. My PhD research at University of Idaho was completed in December 2015. If you would like to read through my dissertation, it is accessable \nhere\n and a video of my defense is \nhere\n. However, to access specific juniper hydrology topics more quickly, this website is much more useful. An overview of topics is below and you can navigate between topics on any page from the window to the left. I hope this information will be a helpful resource for stakeholders, policy makers, and other scientsts. Enjoy!\n\n\nJustification\n\n\nWestern juniper have increased 10-fold in much of the Western U.S. and could potentially continue to encroach into sagebrush steppe communities. This is also true of other Pinyon and Juniper species across the Western U.S. Although the western juniper encroachment process is well documented, there is a lack of research on its hydrologic impacts of western juniper encroachment. The links below are to research topics aimed at filling this and related knowledge gaps.\n\n\nContent:\n\n\n1.  \nInterception and Snow Processes\n\n\n2.  \nShallow and Deep Moisture\n\n\n3.  \nStreamflow and Groundwater Recharge\n\n\n4.  \nJuniper and Climate Change\n\n\n5.  \nJuniper Hydrology Conceptual Model\n\n\n6.  \nPublications\n\n\n7.  \nAbout\n\n\nSupport\n\n\nThis research was funded by a National Science Foundation IGERT fellowship, USGS Northwest Climate Science Center fellowship, grants from the Idaho Governor's Office of Species Conservation, Bureau of Land Management, and University of Idaho Rangeland Center, and institutional support from the University of Idaho.  Although these groups were generous in their support, it in no way signifies their endorsement of the research or conclusions on this website.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-the-juniper-hydrology-website",
+            "text": "Hello, my name is  Ryan Niemeyer . The goal of this website is to communicate the knowledge gained about juniper hydrology during my PhD in an easily accessable format. My PhD research at University of Idaho was completed in December 2015. If you would like to read through my dissertation, it is accessable  here  and a video of my defense is  here . However, to access specific juniper hydrology topics more quickly, this website is much more useful. An overview of topics is below and you can navigate between topics on any page from the window to the left. I hope this information will be a helpful resource for stakeholders, policy makers, and other scientsts. Enjoy!",
+            "title": "Welcome to the Juniper Hydrology website!"
+        },
+        {
+            "location": "/#justification",
+            "text": "Western juniper have increased 10-fold in much of the Western U.S. and could potentially continue to encroach into sagebrush steppe communities. This is also true of other Pinyon and Juniper species across the Western U.S. Although the western juniper encroachment process is well documented, there is a lack of research on its hydrologic impacts of western juniper encroachment. The links below are to research topics aimed at filling this and related knowledge gaps.",
+            "title": "Justification"
+        },
+        {
+            "location": "/#content",
+            "text": "",
+            "title": "Content:"
+        },
+        {
+            "location": "/#1-interception-and-snow-processes",
+            "text": "",
+            "title": "1.  Interception and Snow Processes"
+        },
+        {
+            "location": "/#2-shallow-and-deep-moisture",
+            "text": "",
+            "title": "2.  Shallow and Deep Moisture"
+        },
+        {
+            "location": "/#3-streamflow-and-groundwater-recharge",
+            "text": "",
+            "title": "3.  Streamflow and Groundwater Recharge"
+        },
+        {
+            "location": "/#4-juniper-and-climate-change",
+            "text": "",
+            "title": "4.  Juniper and Climate Change"
+        },
+        {
+            "location": "/#5-juniper-hydrology-conceptual-model",
+            "text": "",
+            "title": "5.  Juniper Hydrology Conceptual Model"
+        },
+        {
+            "location": "/#6-publications",
+            "text": "",
+            "title": "6.  Publications"
+        },
+        {
+            "location": "/#7-about",
+            "text": "",
+            "title": "7.  About"
+        },
+        {
+            "location": "/#support",
+            "text": "This research was funded by a National Science Foundation IGERT fellowship, USGS Northwest Climate Science Center fellowship, grants from the Idaho Governor's Office of Species Conservation, Bureau of Land Management, and University of Idaho Rangeland Center, and institutional support from the University of Idaho.  Although these groups were generous in their support, it in no way signifies their endorsement of the research or conclusions on this website.",
+            "title": "Support"
+        },
+        {
+            "location": "/above_ground/interception/",
+            "text": "Interception\n\n\nInterception occurs when....",
+            "title": "Interception"
+        },
+        {
+            "location": "/above_ground/interception/#interception",
+            "text": "Interception occurs when....",
+            "title": "Interception"
+        },
+        {
+            "location": "/above_ground/snow/",
+            "text": "Snow\n\n\nSnow Deposition\n\n\n(insert picture of photo, and link to time lapse of snow deposition).",
+            "title": "Snow"
+        },
+        {
+            "location": "/above_ground/snow/#snow",
+            "text": "",
+            "title": "Snow"
+        },
+        {
+            "location": "/above_ground/snow/#snow-deposition",
+            "text": "(insert picture of photo, and link to time lapse of snow deposition).",
+            "title": "Snow Deposition"
+        },
+        {
+            "location": "/above_ground/swi/",
+            "text": "Surface Water Input (SWI)\n\n\nWhile interception is the process where trees and other vegetation intercept incoming rain and snow, SWI is the process of rain and snow melt entering the subsurface. While in rain-dominated environments, hydrologist can just consider throughfall - since any rain that passes through the canopy (and eventually through leaf litter or sub-canopy vegetation) will enter the soil. But in snow-dominated environments like much of the western U.S., while snow can pass through the canopy, it may take weeks or months for that snow to melt.  And before the snow melts, some of it can be sublimated to the atmosphere.  As such, we focused on SWI since precipitation occured as rain and snow at our study site.",
+            "title": "Surface Water Input"
+        },
+        {
+            "location": "/above_ground/swi/#surface-water-input-swi",
+            "text": "While interception is the process where trees and other vegetation intercept incoming rain and snow, SWI is the process of rain and snow melt entering the subsurface. While in rain-dominated environments, hydrologist can just consider throughfall - since any rain that passes through the canopy (and eventually through leaf litter or sub-canopy vegetation) will enter the soil. But in snow-dominated environments like much of the western U.S., while snow can pass through the canopy, it may take weeks or months for that snow to melt.  And before the snow melts, some of it can be sublimated to the atmosphere.  As such, we focused on SWI since precipitation occured as rain and snow at our study site.",
+            "title": "Surface Water Input (SWI)"
+        },
+        {
+            "location": "/below_ground/shallow/",
+            "text": "Shallow Soil Moisture\n\n\nSoil Moisture Timing\n\n\nShallow moisture timing...",
+            "title": "Shallow"
+        },
+        {
+            "location": "/below_ground/shallow/#shallow-soil-moisture",
+            "text": "",
+            "title": "Shallow Soil Moisture"
+        },
+        {
+            "location": "/below_ground/shallow/#soil-moisture-timing",
+            "text": "Shallow moisture timing...",
+            "title": "Soil Moisture Timing"
+        },
+        {
+            "location": "/below_ground/deep/",
+            "text": "Deep Moisture\n\n\nMany claim that western juniper can extract subsurface moisture at deep depths, but there is no scientific evidence to back up this claim.  We used geophysical methods to ascertain if indeed juniper extract water well into the subsurface.\n\n\nSaprolite and Weathered Bedrock\n\n\nIn our subsurface study we needed to know how the depth of soil, saprolite and weathered bedrock. Soil is a common term, but saprolite is fragments of rock mixed with unconsolidated (i.e. loose material) material, and weathered bedrock is bedrock that has been broken up due to natural processes.  While soil when saturated can hold up to half it's volume worth of water, saprolite and weathered bedrock are deeper and hold less water.  None theless, scientists have realized that saprolite and weathered bedrock can potentially be important sources of moisture for trees and shrubs, especially in semi-arid environments. \n\n\nIn this figure, we see the depths of soil, saprolite, and bedrock at our study site at RCEW.\n\n\n\nIt is difficult to measure moisture in saprolite and weathered bedrock directly, therefore we used innovative geophysical techniques to indirectly measure moisture.  We do this by using electrical resistivity tomography (ER). ERT shoots electrical signals through the ground and recieves the signals at another location along a transect. Based on how fast the electricity travels, we can have a good idea what the contents are in the subsurface. Here is a conceptual figure of how this works:\n\n \n\n\nOur goal was to understand if juniper or sagebrush extract water at different depths. To do this, we conducted ERT transects across a 100 m transect across juniper and sagebrush cover. Below is a figure of the number and size of juniper and number of sagebrush on or near our transect (top figure) and a aerial photo of the transect (bottom figure):\n\n\n\nWe know that water typically conducts electricity very well. But rock does not. So changes in the armount of water in the subsurface can drastically alter the speed the electrical signal travels. We wanted to know from the wet to dry season, where and how deep junipers extract water. We did an ERT measurement in May, after the snowmelt when the approximate maximum amount of water was stored in the subsurface. Then we did an ERT measurement in August when water stored was at the approximate minimum.  Since there is less water in the subsurface, the places where the electrical signal is lower are places where water has decreased. Here is a picture of the May and August ERT surveys. \n\n\n\nAlthough it may be difficult to see where the resistivity increased (i.e. where the electrical signal was slower and therefore where there was less water) between May and August, when we subtract the values for those two figures, we can see a clear pattern in changes in subsurface moisture. Note the brown line is the estimated boundary between the soil and saprolite, and the black line is the boundary between the saprolite and weathered bedrock: \n\n\n\n\nWe can see that under the large junipers (near 0 m and 50 m) as well as under patches of juniper (15 - 35 m), subsurface resistivity increased (i.e. the electrical signal traveled slower), meaning subsurface moisture decreased in these areas. Conversley, in areas dominated by sagebrush (0 - 10 m, 55 - 100 m), there is not a large reduction in subsurface moisture.  Reduction in moisture under junipers occurs up to depths of 12 m - well into the saprolite and some unweathered bedrock.  It is likely this is not a large amount of moisture, since these mediums do not hold large amounts of water. But it does indicate that juniper can extract water from deep in the subsurface.  \n\n\nInformation on this page is based on \nthis publication\n, where you can find  more detailed information about this study.",
+            "title": "Deep"
+        },
+        {
+            "location": "/below_ground/deep/#deep-moisture",
+            "text": "Many claim that western juniper can extract subsurface moisture at deep depths, but there is no scientific evidence to back up this claim.  We used geophysical methods to ascertain if indeed juniper extract water well into the subsurface.",
+            "title": "Deep Moisture"
+        },
+        {
+            "location": "/below_ground/deep/#saprolite-and-weathered-bedrock",
+            "text": "In our subsurface study we needed to know how the depth of soil, saprolite and weathered bedrock. Soil is a common term, but saprolite is fragments of rock mixed with unconsolidated (i.e. loose material) material, and weathered bedrock is bedrock that has been broken up due to natural processes.  While soil when saturated can hold up to half it's volume worth of water, saprolite and weathered bedrock are deeper and hold less water.  None theless, scientists have realized that saprolite and weathered bedrock can potentially be important sources of moisture for trees and shrubs, especially in semi-arid environments.   In this figure, we see the depths of soil, saprolite, and bedrock at our study site at RCEW.  It is difficult to measure moisture in saprolite and weathered bedrock directly, therefore we used innovative geophysical techniques to indirectly measure moisture.  We do this by using electrical resistivity tomography (ER). ERT shoots electrical signals through the ground and recieves the signals at another location along a transect. Based on how fast the electricity travels, we can have a good idea what the contents are in the subsurface. Here is a conceptual figure of how this works:    Our goal was to understand if juniper or sagebrush extract water at different depths. To do this, we conducted ERT transects across a 100 m transect across juniper and sagebrush cover. Below is a figure of the number and size of juniper and number of sagebrush on or near our transect (top figure) and a aerial photo of the transect (bottom figure):  We know that water typically conducts electricity very well. But rock does not. So changes in the armount of water in the subsurface can drastically alter the speed the electrical signal travels. We wanted to know from the wet to dry season, where and how deep junipers extract water. We did an ERT measurement in May, after the snowmelt when the approximate maximum amount of water was stored in the subsurface. Then we did an ERT measurement in August when water stored was at the approximate minimum.  Since there is less water in the subsurface, the places where the electrical signal is lower are places where water has decreased. Here is a picture of the May and August ERT surveys.   Although it may be difficult to see where the resistivity increased (i.e. where the electrical signal was slower and therefore where there was less water) between May and August, when we subtract the values for those two figures, we can see a clear pattern in changes in subsurface moisture. Note the brown line is the estimated boundary between the soil and saprolite, and the black line is the boundary between the saprolite and weathered bedrock:    We can see that under the large junipers (near 0 m and 50 m) as well as under patches of juniper (15 - 35 m), subsurface resistivity increased (i.e. the electrical signal traveled slower), meaning subsurface moisture decreased in these areas. Conversley, in areas dominated by sagebrush (0 - 10 m, 55 - 100 m), there is not a large reduction in subsurface moisture.  Reduction in moisture under junipers occurs up to depths of 12 m - well into the saprolite and some unweathered bedrock.  It is likely this is not a large amount of moisture, since these mediums do not hold large amounts of water. But it does indicate that juniper can extract water from deep in the subsurface.    Information on this page is based on  this publication , where you can find  more detailed information about this study.",
+            "title": "Saprolite and Weathered Bedrock"
+        },
+        {
+            "location": "/streamflow/streamflow_paradox/",
+            "text": "Streamflow Paradox\n\n\n(basically walk through the intro of GW paper - that many anecdotally have seen creeks dry up with encroachment, the literature doesn't bear out that PJ cover change impacts streamflow, but this likely do to the majority of PJ streamflow studies being in monsoon-dominated environments, finish with there are two studies in Nevada and Idaho that will bear this out).",
+            "title": "Streamflow Paradox"
+        },
+        {
+            "location": "/streamflow/streamflow_paradox/#streamflow-paradox",
+            "text": "(basically walk through the intro of GW paper - that many anecdotally have seen creeks dry up with encroachment, the literature doesn't bear out that PJ cover change impacts streamflow, but this likely do to the majority of PJ streamflow studies being in monsoon-dominated environments, finish with there are two studies in Nevada and Idaho that will bear this out).",
+            "title": "Streamflow Paradox"
+        },
+        {
+            "location": "/streamflow/groundwater/",
+            "text": "Pinyon-Juniper Cover Change and Groundwater Recharge\n\n\n(lay out the study and what you did)",
+            "title": "Groundwater Recharge"
+        },
+        {
+            "location": "/streamflow/groundwater/#pinyon-juniper-cover-change-and-groundwater-recharge",
+            "text": "(lay out the study and what you did)",
+            "title": "Pinyon-Juniper Cover Change and Groundwater Recharge"
+        },
+        {
+            "location": "/climate_change/climate/",
+            "text": "Juniper and Climate Change\n\n\nWestern Juniper primarily occupy semi-arid areas in the western U.S.  These areas are projected to get both warmer and potentially drier in the summer. This could impact if western juniper will continue to encroach\n\n\n(talk about SWI paper conclusions on climate, also about how if drought occurs more, they may be more resilient since they can access very deep water).",
+            "title": "Climate Change"
+        },
+        {
+            "location": "/climate_change/climate/#juniper-and-climate-change",
+            "text": "Western Juniper primarily occupy semi-arid areas in the western U.S.  These areas are projected to get both warmer and potentially drier in the summer. This could impact if western juniper will continue to encroach  (talk about SWI paper conclusions on climate, also about how if drought occurs more, they may be more resilient since they can access very deep water).",
+            "title": "Juniper and Climate Change"
+        },
+        {
+            "location": "/conceptual_model/model/",
+            "text": "Juniper Hydrology Conceptual Model\n\n\nWith our understanding of interception, snow, soil, and saprolite/weathered bedrock hydrologic processes, I (with the help of collaborators) developed a conceptual model to understand how hydrologic processes differ between juniper and sagebrush.  Here is that conceptual model:\n\n\n\n\n(explain the throughfall/SWI, infiltration, and soil water uptake processes between sagebrush and juniper)",
+            "title": "Conceptual Model"
+        },
+        {
+            "location": "/conceptual_model/model/#juniper-hydrology-conceptual-model",
+            "text": "With our understanding of interception, snow, soil, and saprolite/weathered bedrock hydrologic processes, I (with the help of collaborators) developed a conceptual model to understand how hydrologic processes differ between juniper and sagebrush.  Here is that conceptual model:   (explain the throughfall/SWI, infiltration, and soil water uptake processes between sagebrush and juniper)",
+            "title": "Juniper Hydrology Conceptual Model"
+        },
+        {
+            "location": "/publications/swi/",
+            "text": "Title: Surface water input from snowmelt and rain throughfall in western juniper: Potential impacts of climate change and shifts in semi-arid vegetation.\n\n\nAuthors: Niemeyer, R.J., T.E. Link, M.S. Seyfried, and G.L. Flerchinger\n\n\nJournal: Hydrological Processes (2016) doi: 10.1002/hyp.10845.\n\n\nAbstract: In the western USA, shifts from snow to rain precipitation regimes and increases in western juniper cover in shrub-dominated landscapes can alter surface water input via changes in snowmelt and throughfall. To better understand how shifts in both precipitation and semi-arid vegetation cover alter above-ground hydrological processes, we assessed how rain interception differs between snow and rain surface water input; how western juniper alters snowpack dynamics; and how these above-ground processes differ across western juniper, mountain big sagebrush and low sagebrush plant communities. We collected continuous surface water input with four large lysimeters, interspace and below-canopy snow depth data and conducted periodic snow surveys for two consecutive water years (2013 and 2014). The ratio of interspace to below-canopy surface water input was greater for snow relative to rain events, averaging 79.4% and 54.8%, respectively. The greater surface water input ratio for snow is in part due to increased deposition of redistributed snow under the canopy. We simulated above-ground energy and water fluxes in western juniper, low sagebrush and mountain big sagebrush for two 8-year periods under current and projected mid-21st century warmer temperatures with the Simultaneous Heat and Water (SHAW) model. Juniper compared with low and mountain sagebrush reduced surface water input by an average of 138\u2009mm or 24% of the total site water budget. Conversely, warming temperatures reduced surface water input by only an average of 14\u2009mm across the three vegetation types. The future (warmer) simulations resulted in earlier snow disappearance and surface water input by 51 and 45\u2009days, respectively, across juniper, low sagebrush and mountain sagebrush. Information from this study can help land managers in the sagebrush steppe understand how both shifts in climate and semi-arid vegetation will alter fundamental hydrological processes. \n\n\nThe article can be found \nhere\n or if you do not have access, you can download the pre-prints \nhere\n.",
+            "title": "Snowmelt and Rain Throughfall"
+        },
+        {
+            "location": "/publications/swi/#title-surface-water-input-from-snowmelt-and-rain-throughfall-in-western-juniper-potential-impacts-of-climate-change-and-shifts-in-semi-arid-vegetation",
+            "text": "",
+            "title": "Title: Surface water input from snowmelt and rain throughfall in western juniper: Potential impacts of climate change and shifts in semi-arid vegetation."
+        },
+        {
+            "location": "/publications/swi/#authors-niemeyer-rj-te-link-ms-seyfried-and-gl-flerchinger",
+            "text": "",
+            "title": "Authors: Niemeyer, R.J., T.E. Link, M.S. Seyfried, and G.L. Flerchinger"
+        },
+        {
+            "location": "/publications/swi/#journal-hydrological-processes-2016-doi-101002hyp10845",
+            "text": "Abstract: In the western USA, shifts from snow to rain precipitation regimes and increases in western juniper cover in shrub-dominated landscapes can alter surface water input via changes in snowmelt and throughfall. To better understand how shifts in both precipitation and semi-arid vegetation cover alter above-ground hydrological processes, we assessed how rain interception differs between snow and rain surface water input; how western juniper alters snowpack dynamics; and how these above-ground processes differ across western juniper, mountain big sagebrush and low sagebrush plant communities. We collected continuous surface water input with four large lysimeters, interspace and below-canopy snow depth data and conducted periodic snow surveys for two consecutive water years (2013 and 2014). The ratio of interspace to below-canopy surface water input was greater for snow relative to rain events, averaging 79.4% and 54.8%, respectively. The greater surface water input ratio for snow is in part due to increased deposition of redistributed snow under the canopy. We simulated above-ground energy and water fluxes in western juniper, low sagebrush and mountain big sagebrush for two 8-year periods under current and projected mid-21st century warmer temperatures with the Simultaneous Heat and Water (SHAW) model. Juniper compared with low and mountain sagebrush reduced surface water input by an average of 138\u2009mm or 24% of the total site water budget. Conversely, warming temperatures reduced surface water input by only an average of 14\u2009mm across the three vegetation types. The future (warmer) simulations resulted in earlier snow disappearance and surface water input by 51 and 45\u2009days, respectively, across juniper, low sagebrush and mountain sagebrush. Information from this study can help land managers in the sagebrush steppe understand how both shifts in climate and semi-arid vegetation will alter fundamental hydrological processes.   The article can be found  here  or if you do not have access, you can download the pre-prints  here .",
+            "title": "Journal: Hydrological Processes (2016) doi: 10.1002/hyp.10845."
+        },
+        {
+            "location": "/publications/moisture/",
+            "text": "Title: Spatiotemporal soil and saprolite moisture dynamics across a semi-arid woody plant gradient.\n\n\nAuthors: Niemeyer, R.J., R. Heinse, T.E. Link, M.S. Seyfried, P. Klos, C. Williams, and T. Nielson\n\n\nJournal: Journal of Hydrology (in prep for re-submission)\n\n\nAbstract: Woody plant cover has increased 10-fold over the last 140+ years in many parts of the semi-arid western USA. Woody plant cover can alter the timing and amount of plant available moisture in the soil and saprolite. To assess spatiotemporal subsurface moisture dynamics over two water years in a snow-dominated western juniper stand we compared moisture dynamics horizontally across a discontinuous canopy, and vertically in soil and saprolite. We monitored soil moisture at 15 and 60 cm and conducted periodic electromagnetic induction and electrical resistivity tomography surveys aimed at sensing moisture changes within the root zone and saprolite. Timing of soil moisture dry down at 15 cm was very similar between the canopy and interspace. Conversely, dry down at 60 cm occurred 22 days earlier in the interspace than in the canopy. After a rain event, interspaces with more shrubs showed greater increases in soil moisture than interspaces with few shrubs. For the few rain events that were large enough to increase soil moisture at 60 cm, increases in moisture occurred almost exclusively below the canopy. Soil water holding capacity from 0 to 150 cm was a primary driver of areas that were associated with the greatest change in distributed electrical conductivity - an indicator of changes in soil moisture - across the growing season. Vegetation was also correlated with a greater seasonal change in electrical conductivity at these depths. The seasonal change in resistivity suggested moisture extraction by juniper well into the saprolite, as deep as 12 m below the surface.  This change in deep subsurface resistivity primarily occurred below medium and large juniper trees. This study suggests how tree roots are both increasing infiltration below their canopy while also extracting moisture at depths of upwards of 12 m. Information from this study can help improve our understanding of juniper resilience to drought and the hydrologic impacts of semi-arid land cover change.\n\n\nThe article can be found here (coming soon!), or if you do not have access, you can download the proofs here (insert link).",
+            "title": "Subsurface Moisture"
+        },
+        {
+            "location": "/publications/moisture/#title-spatiotemporal-soil-and-saprolite-moisture-dynamics-across-a-semi-arid-woody-plant-gradient",
+            "text": "",
+            "title": "Title: Spatiotemporal soil and saprolite moisture dynamics across a semi-arid woody plant gradient."
+        },
+        {
+            "location": "/publications/moisture/#authors-niemeyer-rj-r-heinse-te-link-ms-seyfried-p-klos-c-williams-and-t-nielson",
+            "text": "",
+            "title": "Authors: Niemeyer, R.J., R. Heinse, T.E. Link, M.S. Seyfried, P. Klos, C. Williams, and T. Nielson"
+        },
+        {
+            "location": "/publications/moisture/#journal-journal-of-hydrology-in-prep-for-re-submission",
+            "text": "Abstract: Woody plant cover has increased 10-fold over the last 140+ years in many parts of the semi-arid western USA. Woody plant cover can alter the timing and amount of plant available moisture in the soil and saprolite. To assess spatiotemporal subsurface moisture dynamics over two water years in a snow-dominated western juniper stand we compared moisture dynamics horizontally across a discontinuous canopy, and vertically in soil and saprolite. We monitored soil moisture at 15 and 60 cm and conducted periodic electromagnetic induction and electrical resistivity tomography surveys aimed at sensing moisture changes within the root zone and saprolite. Timing of soil moisture dry down at 15 cm was very similar between the canopy and interspace. Conversely, dry down at 60 cm occurred 22 days earlier in the interspace than in the canopy. After a rain event, interspaces with more shrubs showed greater increases in soil moisture than interspaces with few shrubs. For the few rain events that were large enough to increase soil moisture at 60 cm, increases in moisture occurred almost exclusively below the canopy. Soil water holding capacity from 0 to 150 cm was a primary driver of areas that were associated with the greatest change in distributed electrical conductivity - an indicator of changes in soil moisture - across the growing season. Vegetation was also correlated with a greater seasonal change in electrical conductivity at these depths. The seasonal change in resistivity suggested moisture extraction by juniper well into the saprolite, as deep as 12 m below the surface.  This change in deep subsurface resistivity primarily occurred below medium and large juniper trees. This study suggests how tree roots are both increasing infiltration below their canopy while also extracting moisture at depths of upwards of 12 m. Information from this study can help improve our understanding of juniper resilience to drought and the hydrologic impacts of semi-arid land cover change.  The article can be found here (coming soon!), or if you do not have access, you can download the proofs here (insert link).",
+            "title": "Journal: Journal of Hydrology (in prep for re-submission)"
+        },
+        {
+            "location": "/publications/groundwater/",
+            "text": "Title: Climate moderates potential shifts in groundwater recharge with Pinyon-Juniper land cover changes across the western U.S\n\n\nAuthors: Niemeyer, R.J., T.E. Link, M.S. Seyfried, and R. Heinse\n\n\nJournal: Ecohydrology (in prep)\n\n\nThe goal of this research is in some ways a response to the \"\nstreamflow paradox\n\" described in the previous page.  Specifically the goal is to understand if differences in climate across pinyon and juniper cover in the Western U.S. impacts the potential for streamflow to increase with pinyon/juniper removal or decrease with pinyon/juniper encroachment.  \n\n\nAbstract: Pinyon-Juniper (PJ) cover has increased up to 10-fold in many parts of the western U.S. in the last 140+ years. Some claim PJ removal will increase streamflow, but this assertion is contested due to several paired-catchment studies revealing no appreciable gain in streamflow after PJ removal.  These paired-catchment studies were predominantly conducted in the southern range of PJ cover, where a large portion of the precipitation occurs in the summer during high evaporative demand. Much of the PJ cover is in the northern and western range of PJ cover, where the majority of the precipitation occurs in the winter. To ascertain if differences in precipitation timing and amount affect the potential for streamflow to increase with PJ removal, we simulated tree and grass cover at a 4 km resolution and daily time step with the Hydrologiska Byr\u00e5ns Vattenbalansavdelning (HBV) model. Forcing data included 1981 to 2010 PRISM precipitation and temperature data across the range of PJ cover in the western U.S. We used groundwater recharge as a proxy for the potential for an increase in streamflow. Comparing three previous paired catchment studies and a paired soil moisture plot study with our simulated groundwater recharge revealed good correlation between measured increase in streamflow or groundwater recharge and our simulated increases in groundwater recharge. For sites in the northern and western range of PJ cover where precipitation predominantly occurs in the winter, difference in groundwater recharge between simulated grass and tree cover was 30.5 mm. Conversely, in sites in the southern range where a large portion of precipitation occurs in the summer, simulated difference in tree and grass recharge was 6.7 mm. Our results reveal that only 29.4% sites, compared to an estimated 45% of sites based on the amount precipitation alone, will see an potential meaningful increase in streamflow with PJ removal.\n\n\nThe article is currently being edited and will be submitted in early Fall 2016.",
+            "title": "Groundwater Recharge"
+        },
+        {
+            "location": "/publications/groundwater/#title-climate-moderates-potential-shifts-in-groundwater-recharge-with-pinyon-juniper-land-cover-changes-across-the-western-us",
+            "text": "",
+            "title": "Title: Climate moderates potential shifts in groundwater recharge with Pinyon-Juniper land cover changes across the western U.S"
+        },
+        {
+            "location": "/publications/groundwater/#authors-niemeyer-rj-te-link-ms-seyfried-and-r-heinse",
+            "text": "",
+            "title": "Authors: Niemeyer, R.J., T.E. Link, M.S. Seyfried, and R. Heinse"
+        },
+        {
+            "location": "/publications/groundwater/#journal-ecohydrology-in-prep",
+            "text": "The goal of this research is in some ways a response to the \" streamflow paradox \" described in the previous page.  Specifically the goal is to understand if differences in climate across pinyon and juniper cover in the Western U.S. impacts the potential for streamflow to increase with pinyon/juniper removal or decrease with pinyon/juniper encroachment.    Abstract: Pinyon-Juniper (PJ) cover has increased up to 10-fold in many parts of the western U.S. in the last 140+ years. Some claim PJ removal will increase streamflow, but this assertion is contested due to several paired-catchment studies revealing no appreciable gain in streamflow after PJ removal.  These paired-catchment studies were predominantly conducted in the southern range of PJ cover, where a large portion of the precipitation occurs in the summer during high evaporative demand. Much of the PJ cover is in the northern and western range of PJ cover, where the majority of the precipitation occurs in the winter. To ascertain if differences in precipitation timing and amount affect the potential for streamflow to increase with PJ removal, we simulated tree and grass cover at a 4 km resolution and daily time step with the Hydrologiska Byr\u00e5ns Vattenbalansavdelning (HBV) model. Forcing data included 1981 to 2010 PRISM precipitation and temperature data across the range of PJ cover in the western U.S. We used groundwater recharge as a proxy for the potential for an increase in streamflow. Comparing three previous paired catchment studies and a paired soil moisture plot study with our simulated groundwater recharge revealed good correlation between measured increase in streamflow or groundwater recharge and our simulated increases in groundwater recharge. For sites in the northern and western range of PJ cover where precipitation predominantly occurs in the winter, difference in groundwater recharge between simulated grass and tree cover was 30.5 mm. Conversely, in sites in the southern range where a large portion of precipitation occurs in the summer, simulated difference in tree and grass recharge was 6.7 mm. Our results reveal that only 29.4% sites, compared to an estimated 45% of sites based on the amount precipitation alone, will see an potential meaningful increase in streamflow with PJ removal.  The article is currently being edited and will be submitted in early Fall 2016.",
+            "title": "Journal: Ecohydrology (in prep)"
+        },
+        {
+            "location": "/publications/social_ecological/",
+            "text": "Title: A social-ecological impact assessment for public lands management: application of a conceptual and methodological framework\n\n\nAuthors: Amanda Bentley Brymer, Joseph Holbrook, Ryan Niemeyer, Alexis Suazo, J. Wulfhorst, Kerri Vierling, Beth Newingham, Timothy Link, Janet Rachlow\n\n\nJournal: Ecology and Society (accepted)\n\n\nAbstract: According to the U.S. National Environmental Policy Act of 1969 (NEPA), federal action to manipulate habitat for species conservation requires an environmental impact statement, which should integrate natural, physical, economic, and social sciences in planning and decision making. Nonetheless, most impact assessments focus disproportionately on physical or ecological impacts rather than integrating ecological and socioeconomic components. We developed a participatory social-ecological impact assessment (SEIA) that addresses the requirements of NEPA and integrates social and ecological concepts for impact assessments. We cooperated with the Bureau of Land Management in Idaho, USA on a project designed to restore habitat for the Greater Sage-Grouse (Centrocercus urophasianus). We employed questionnaires, workshop dialogue, and participatory mapping exercises with stakeholders to identify potential environmental changes and subsequent impacts expected to result from the removal of western juniper (Juniperus occidentalis). Via questionnaires and workshop dialogue, stakeholders identified 46 environmental changes and associated positive or negative impacts to people and communities in Owyhee County, Idaho. Results of the participatory mapping exercises showed that the spatial distribution of social, economic, and ecological values throughout Owyhee County are highly associated with the two main watersheds, wilderness areas, and the historic town of Silver City. Altogether, the SEIA process revealed that perceptions of project scale varied among participants, highlighting the need for specificity about spatial and temporal scales. Overall, the SEIA generated substantial information concerning potential impacts associated with habitat treatments for Greater Sage-Grouse. The SEIA is transferable to other land management and conservation contexts because it supports holistic understanding and framing of connections between humans and ecosystems. By applying this SEIA framework, land managers and affected people have an opportunity to fulfill NEPA requirements and develop more comprehensive management plans that better reflect the linkages of social-ecological systems.\n\n\nThe article is should soon be available on the Ecology and Society website.",
+            "title": "Social-Ecological Assessment"
+        },
+        {
+            "location": "/publications/social_ecological/#title-a-social-ecological-impact-assessment-for-public-lands-management-application-of-a-conceptual-and-methodological-framework",
+            "text": "",
+            "title": "Title: A social-ecological impact assessment for public lands management: application of a conceptual and methodological framework"
+        },
+        {
+            "location": "/publications/social_ecological/#authors-amanda-bentley-brymer-joseph-holbrook-ryan-niemeyer-alexis-suazo-j-wulfhorst-kerri-vierling-beth-newingham-timothy-link-janet-rachlow",
+            "text": "",
+            "title": "Authors: Amanda Bentley Brymer, Joseph Holbrook, Ryan Niemeyer, Alexis Suazo, J. Wulfhorst, Kerri Vierling, Beth Newingham, Timothy Link, Janet Rachlow"
+        },
+        {
+            "location": "/publications/social_ecological/#journal-ecology-and-society-accepted",
+            "text": "Abstract: According to the U.S. National Environmental Policy Act of 1969 (NEPA), federal action to manipulate habitat for species conservation requires an environmental impact statement, which should integrate natural, physical, economic, and social sciences in planning and decision making. Nonetheless, most impact assessments focus disproportionately on physical or ecological impacts rather than integrating ecological and socioeconomic components. We developed a participatory social-ecological impact assessment (SEIA) that addresses the requirements of NEPA and integrates social and ecological concepts for impact assessments. We cooperated with the Bureau of Land Management in Idaho, USA on a project designed to restore habitat for the Greater Sage-Grouse (Centrocercus urophasianus). We employed questionnaires, workshop dialogue, and participatory mapping exercises with stakeholders to identify potential environmental changes and subsequent impacts expected to result from the removal of western juniper (Juniperus occidentalis). Via questionnaires and workshop dialogue, stakeholders identified 46 environmental changes and associated positive or negative impacts to people and communities in Owyhee County, Idaho. Results of the participatory mapping exercises showed that the spatial distribution of social, economic, and ecological values throughout Owyhee County are highly associated with the two main watersheds, wilderness areas, and the historic town of Silver City. Altogether, the SEIA process revealed that perceptions of project scale varied among participants, highlighting the need for specificity about spatial and temporal scales. Overall, the SEIA generated substantial information concerning potential impacts associated with habitat treatments for Greater Sage-Grouse. The SEIA is transferable to other land management and conservation contexts because it supports holistic understanding and framing of connections between humans and ecosystems. By applying this SEIA framework, land managers and affected people have an opportunity to fulfill NEPA requirements and develop more comprehensive management plans that better reflect the linkages of social-ecological systems.  The article is should soon be available on the Ecology and Society website.",
+            "title": "Journal: Ecology and Society (accepted)"
+        },
+        {
+            "location": "/about/ryan/",
+            "text": "About me\n\n\nI completed my Ph.D. at the University of Idaho (UI) in Water Resources in December 2015. At UI, I was an active member of the IGERT Sagebrush Team  \u2013 an interdisciplinary research team focused on social-ecological issues in the sagebrush steppe of southern Idaho. At the start of our PhDs in August of 2011, we toured Idaho for a week, visiting with ranchers, federal and state land managers, environmentalists, and a suite of other stakeholders. One of the hydrologic issues that stood out was the question of how does juniper encroachment alter the hydrology of an area. Although my research sought to answer fundamental ecohydroogic questions, increase understanding of social-ecological interactions, etc., this question of how junipers impact water movement in the sagerush steppe was a central question of my dissertation.  \n\n\nSometimes research went well, and other days it felt like I was just sticking my head in the ground.",
+            "title": "About Me"
+        },
+        {
+            "location": "/about/ryan/#about-me",
+            "text": "I completed my Ph.D. at the University of Idaho (UI) in Water Resources in December 2015. At UI, I was an active member of the IGERT Sagebrush Team  \u2013 an interdisciplinary research team focused on social-ecological issues in the sagebrush steppe of southern Idaho. At the start of our PhDs in August of 2011, we toured Idaho for a week, visiting with ranchers, federal and state land managers, environmentalists, and a suite of other stakeholders. One of the hydrologic issues that stood out was the question of how does juniper encroachment alter the hydrology of an area. Although my research sought to answer fundamental ecohydroogic questions, increase understanding of social-ecological interactions, etc., this question of how junipers impact water movement in the sagerush steppe was a central question of my dissertation.    Sometimes research went well, and other days it felt like I was just sticking my head in the ground.",
+            "title": "About me"
+        },
+        {
+            "location": "/about/sage_team/",
+            "text": "Sagebrush Research Team\n\n\n(a little biography about the sagebrush team)",
+            "title": "Sagebrush Team"
+        },
+        {
+            "location": "/about/sage_team/#sagebrush-research-team",
+            "text": "(a little biography about the sagebrush team)",
+            "title": "Sagebrush Research Team"
+        },
+        {
+            "location": "/about/juniper_pictures/",
+            "text": "Juniper Pictures\n\n\nDuring my time doing research at \nReynolds Creek Experimental Watershed and Critical Zone Observatory\n (RCEW), I took quite a few pictures. Feel free to use these - but please cite me (Ryan Niemeyer) appropriately. If you really like one of the pictures and want a higher resolution photo, shoot me an email.\n\n\nJuniper Site\n\n\nI conducted most of my juniper field research at RCEW at the \"juniper site\", where in the 1962 (verify) vegetation survey, this was the only place on that map labeled \"juniper\".\n It's on the southeast side of the watershed.  \n\n\nLandscape\n\n\nSnow\n\n\nRain-on-snow event in January 29th, 2014 at RCEW",
+            "title": "Juniper Pictures"
+        },
+        {
+            "location": "/about/juniper_pictures/#juniper-pictures",
+            "text": "During my time doing research at  Reynolds Creek Experimental Watershed and Critical Zone Observatory  (RCEW), I took quite a few pictures. Feel free to use these - but please cite me (Ryan Niemeyer) appropriately. If you really like one of the pictures and want a higher resolution photo, shoot me an email.",
+            "title": "Juniper Pictures"
+        },
+        {
+            "location": "/about/juniper_pictures/#juniper-site",
+            "text": "I conducted most of my juniper field research at RCEW at the \"juniper site\", where in the 1962 (verify) vegetation survey, this was the only place on that map labeled \"juniper\".\n It's on the southeast side of the watershed.",
+            "title": "Juniper Site"
+        },
+        {
+            "location": "/about/juniper_pictures/#landscape",
+            "text": "",
+            "title": "Landscape"
+        },
+        {
+            "location": "/about/juniper_pictures/#snow",
+            "text": "",
+            "title": "Snow"
+        },
+        {
+            "location": "/about/juniper_pictures/#rain-on-snow-event-in-january-29th-2014-at-rcew",
+            "text": "",
+            "title": "Rain-on-snow event in January 29th, 2014 at RCEW"
+        }
+    ]
+}

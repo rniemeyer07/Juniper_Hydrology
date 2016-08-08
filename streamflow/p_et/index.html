@@ -8,7 +8,7 @@
   
   <meta name="author" content="Ryan Niemeyer">
   
-  <title>About Me - Juniper Hydrology</title>
+  <title>Climate and Shifts in Streamflow - Juniper Hydrology</title>
   
 
   <link rel="shortcut icon" href="../../img/favicon.ico">
@@ -23,9 +23,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "About Me";
-    var mkdocs_page_input_path = "about/ryan.md";
-    var mkdocs_page_url = "/about/ryan/";
+    var mkdocs_page_name = "Climate and Shifts in Streamflow";
+    var mkdocs_page_input_path = "streamflow/p_et.md";
+    var mkdocs_page_url = "/streamflow/p_et/";
   </script>
   
   <script src="../../js/jquery-2.1.1.min.js"></script>
@@ -119,14 +119,23 @@
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../../streamflow/streamflow_paradox/">Streamflow Paradox</a>
+        <a class="" href="../streamflow_paradox/">Streamflow Paradox</a>
         
     </li>
 
         
             
-    <li class="toctree-l1 ">
-        <a class="" href="../../streamflow/p_et/">Climate and Shifts in Streamflow</a>
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Climate and Shifts in Streamflow</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#climate-moderates-potential-streamflow-shifts-with-pinyon-juniper-cover-change">Climate Moderates Potential Streamflow Shifts with Pinyon-Juniper Cover Change</a></li>
+                
+                    <li><a class="toctree-l4" href="#precipitation-evapotranspiration">Precipitation - Evapotranspiration</a></li>
+                
+            
+            </ul>
         
     </li>
 
@@ -206,29 +215,22 @@
 
         
             
-    <li class="toctree-l1 current">
-        <a class="current" href="./">About Me</a>
-        
-            <ul>
-            
-                <li class="toctree-l3"><a href="#about-me">About me</a></li>
-                
-            
-            </ul>
+    <li class="toctree-l1 ">
+        <a class="" href="../../about/ryan/">About Me</a>
         
     </li>
 
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../sage_team/">Sagebrush Team</a>
+        <a class="" href="../../about/sage_team/">Sagebrush Team</a>
         
     </li>
 
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../juniper_pictures/">Juniper Pictures</a>
+        <a class="" href="../../about/juniper_pictures/">Juniper Pictures</a>
         
     </li>
 
@@ -258,11 +260,11 @@
     
       
         
-          <li>About &raquo;</li>
+          <li>Streamflow &raquo;</li>
         
       
     
-    <li>About Me</li>
+    <li>Climate and Shifts in Streamflow</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -272,12 +274,18 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="about-me">About me</h1>
-<p><img alt="Ryan during winter data collection" src="../../figures/ryan_snow.jpg" /></p>
-<p>I completed my Ph.D. at the University of Idaho (UI) in Water Resources in December 2015. At UI, I was an active member of the IGERT Sagebrush Team  – an interdisciplinary research team focused on social-ecological issues in the sagebrush steppe of southern Idaho. At the start of our PhDs in August of 2011, we toured Idaho for a week, visiting with ranchers, federal and state land managers, environmentalists, and a suite of other stakeholders. One of the hydrologic issues that stood out was the question of how does juniper encroachment alter the hydrology of an area. Although my research sought to answer fundamental ecohydroogic questions, increase understanding of social-ecological interactions, etc., this question of how junipers impact water movement in the sagerush steppe was a central question of my dissertation.  </p>
-<p>If you would like to contact me with juniper hydrology questions or comment on the webiste, you can go <a href="https://ryniemeyer.wordpress.com/contact-me/">here</a> to email me a question or comment.</p>
-<p>Sometimes research went well, and other days it felt like I was just sticking my head in the ground.</p>
-<p><img alt="Ryan Burrow" src="../../figures/ryan_burrow.png" title="=10x5" /></p>
+                <h1 id="climate-moderates-potential-streamflow-shifts-with-pinyon-juniper-cover-change">Climate Moderates Potential Streamflow Shifts with Pinyon-Juniper Cover Change</h1>
+<p>This project was developed in response to the conflict described in the previous page - is there potential for PJ cover change to result in meaningful shifts in streamflow? To answer this question we utilized a well established process-based hydrologic model to simulate precipitation - evapotranspiration (P-ET). P-ET is the water "left over" that either recharges groundwater or becomes streamflow. Below is a conceptual model of the hydrologic model we used to simulate P-ET. </p>
+<p><img alt="Conceptual Model" src="../../figures/P_ET.jpg" /></p>
+<h3 id="precipitation-evapotranspiration">Precipitation - Evapotranspiration</h3>
+<p>We simulated the water budget of all pinyon and juniper cover (based on USDA Forest Service (USFS) and US Geological Survey (USGS) 1 km map). Daily temperature and precipitation from 1981 to 2010 was based from PRISM (Daly et al., 1994). We simulated P-ET in grass and PJ (tree) cover.  Differences in cover was based on differences in soil accessable to roots in the model. For grass, roots could access 100 mm of moisture in the soil (i.e. plant available water). For tree cover, roots could access 200 mm of moisture in the soil.</p>
+<p>We first evaluated our model by comparing changes in streamflow or groundwater recharge in field studies with our simulations. The Beaver Creek study in Arizona saw a 9-year average increase of 9.7 mm (Clary et al., 1974). In the same grid cell, our study simulated a 7.6 mm increase in P-ET.  A Texas, two studies revealed a 2.4 mm and 3.8 mm increase in streamflow after PJ cover removal (Richardson et al., 1979 and Wright, 1996). In our study the average increase in P-ET was 6.9 mm and 3.1 mm respectively. Finally, at Reynolds Creek Experimental Watershed, a study where dense sagebrush was removed saw an increase in groundwater recharge of 60 mm (Seyfried and Wilcox, 2006). Our study revealed a 64.6 mm increase in P-ET in the same grid cell. Taking the comparison of these four field studies and our simulations, we see our study simulated changes in streamflow or groundwater recharge via the P-ET reasonably well. </p>
+<p>To estimate gains in streamflow with PJ cover change, we subtracted simulated P-ET in PJ cover from P-ET in grass cover. This is essentially how much streamflow could potentially increase with removal pinyon and juniper trees. The annual average change in P-ET between grass and tree cover is mapped in the figure below. Gray and yellow areas have little or no difference in P-ET between grass and PJ cover. Areas in green, blue, and purple have greater increases in P-ET between grass and PJ cover. In the inset figure, areas where P-ET between grass and PJ cover were statistically different are colored.  Converseley, areas in the subset figure in grey are statistically not different. </p>
+<p><img alt="Change in P-ET" src="../../figures/change_P_ET.jpg" /></p>
+<p>We see how simulated increases in P-ET vary based on the region. In the the southwestern U.S. - Arizona, New Mexico, and Texas - most areas have little or no increase in P-ET with changes in cover. Conversely, most areas in the norther distribution - California, Oregon, Idaho, Utah, Nevada, and Colorado - showed an increase in P-ET with changes in land cover.   </p>
+<p>Even though the timing of precipitaiton is important, we wanted to compare if precipitation or monsoon index influenced changes in P-ET. To do this we simulated differences in plant available water in 10 mm across all 30 years. We then graphed how sensitive these areas were across the varios total precipitation and monsoon index.  In the figure below, the areas in purple are more sensitive to change in plant availabe water, and are therefore areas where changes in PJ cover is more likely to produce changes in streamflow.  We see that areas with climates that are both wetter and more mediterranean (i.e. areas where precipitation occurs in the winter) are more sensitive to changes in plant available water.  </p>
+<p><img alt="monsoon index and precipitation" src="../../figures/monsoon_precip_P_ET.jpg" /></p>
+<p>Information on this page is based on <a href="../../publications/p_et">this publication</a>, where you can find  more detailed information about this study.</p>
               
             </div>
           </div>
@@ -285,10 +293,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../sage_team/" class="btn btn-neutral float-right" title="Sagebrush Team">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../../climate_change/climate/" class="btn btn-neutral float-right" title="Climate Change">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../../publications/social_ecological/" class="btn btn-neutral" title="Social-Ecological Assessment"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../streamflow_paradox/" class="btn btn-neutral" title="Streamflow Paradox"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -316,10 +324,10 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../../publications/social_ecological/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../streamflow_paradox/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../sage_team/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../../climate_change/climate/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
